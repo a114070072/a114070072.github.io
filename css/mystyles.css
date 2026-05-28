@@ -1,41 +1,24 @@
 .yujiecenter{
-    text-align: center;
-    color: rosybrown;
-    background-color: antiquewhite;
+   text-align: center;
+   color: rosybrown;
+   background-color: antiquewhite;
 }
 .yujiekk{
-    background-color: azure;
-    padding: 20px 30px;
-    border-radius: 15px;
-    color: rosybrown;
-    margin: 0px auto;
-    width: 80%;
-    height: 100px;
-    overflow: auto;
+   background-color: azure;
+   padding: 20px 30px;
+   border-radius: 15px;
+   color: rosybrown;
+   margin: 0px auto;
+   width: 80%;
+   height: 100px;
+   overflow: auto;
 }
 .me{
-    text-align: center;
+   text-align: center;
 }
 .shu{
-    text-align: center;
+   text-align: center;
 }
 a.yujielink{
-    color: rgb(249, 226, 197);
-    padding: 0 10px;
-    border-radius: 40px;
-    background-color: rgb(245, 205, 163);
-}
-a.yujielink:hover{
-    background-color: rgb(249, 226, 197);
-    color: blanchedalmond;
-}
-.yujiego{
-    font-size: 20px;
-    text-align: center;
-}
-section#about{
-    background-color: bisque;
-    background-image:url(../assets/img/irenna-cat-7274205_1920.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+   color: rgb(249, 226, 197);
 }
