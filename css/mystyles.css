@@ -35,7 +35,8 @@ a.yujielink:hover{
 }
 section#about{
    background-color: bisque;
-   background-image:url(../assets/img/irenna-cat-7274205_1920.jpg);
+   background-image:url(../assets/img/_.jpeg);
    background-repeat: no-repeat;
    background-attachment: fixed;
+   background-size: cover;
 }
