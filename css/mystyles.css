@@ -7,7 +7,7 @@
    background-color:#dac9c2;
    padding: 20px 30px;
    border-radius: 15px;
-   color: rgb(255, 255, 255);
+   color: rgb(0, 0, 0);
    margin: 0px auto;
    width: 80%;
    height: auto;
@@ -24,7 +24,7 @@ a.yujielink{
    padding: 0 10px;
    border-radius: 40px;
    background-color:#dac9c2; 
-   margin: 2px;;
+   margin: 1px;;
 }
 a.yujielink:hover{
    background-color: rgb(255, 255, 255);
@@ -104,6 +104,38 @@ a.food:hover{
    background-color:#ffffff; 
    color: #dac9c2; 
 }
-a.yujiebiggg{
+.yujiebiggg{
    background-color: #dac9c2;
+   font-size: 20px;
+}
+.yujiebig{
+   background-color: #dac9c2;
+   font-size: 20px;
+}
+.yujiego a .fa-down-long{
+   color:#dac9c2;
+   transition: color 0.3s ease;
+}
+.yujieww{
+   color:#dac9c2;
+}
+/* 鎖定工作經驗表格的欄位寬度，讓多組表格完全對齊 */
+#work .table th:nth-child(1), 
+#work .table td:nth-child(1) {
+    width: 20%; /* 工作店家佔 25% */
+}
+
+#work .table th:nth-child(2), 
+#work .table td:nth-child(2) {
+    width: 20%; /* 喜愛程度佔 25% */
+}
+
+#work .table th:nth-child(3), 
+#work .table td:nth-child(3) {
+    width: 60%; /* 工作內容佔 50% */
+}
+
+/* 確保表格內的文字會自動換行，不會撐開欄位 */
+#work .table td {
+    word-break: break-all;
 }
