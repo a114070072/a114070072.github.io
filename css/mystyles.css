@@ -1,16 +1,17 @@
 .yujiecenter{
    text-align: center;
-   color: bisque; 
-   background-color: rosybrown;
+   color: rgb(255, 255, 255); 
+   background-color: #dac9c2;
 }
 .yujiekk{
-   background-color: azure;
+   background-color:#dac9c2;
    padding: 20px 30px;
    border-radius: 15px;
-   color: rosybrown;
+   color: rgb(255, 255, 255);
    margin: 0px auto;
    width: 80%;
-   height: 100px;
+   height: auto;
+   font-family: "Noto Serif TC", serif;
 }
 .me{
    text-align: center;
@@ -19,18 +20,20 @@
    text-align: center;
 }
 a.yujielink{
-   color: rgb(249, 226, 197);
+   color: rgb(254, 254, 254);
    padding: 0 10px;
    border-radius: 40px;
-   background-color: rosybrown;
+   background-color:#dac9c2; 
+   margin: 2px;;
 }
 a.yujielink:hover{
-   background-color: rgb(249, 226, 197);
-   color: blanchedalmond;
+   background-color: rgb(255, 255, 255);
+   color:#dac9c2; 
 }
 .yujiego{
    font-size: 20px;
    text-align: center;
+   color:#dac9c2; 
 }
 section#about{
    background-color: bisque;
@@ -79,7 +82,7 @@ section#cta{
 }
 .connect{
    text-align: center;
-   color: bisque;
+   color: rgb(83, 83, 83);
 }
 .photo{
    width: 100%;
@@ -88,3 +91,19 @@ section#cta{
    object-fit: cover;
    margin: 6px;
 } 
+.food{
+  font-size: 20px;
+}
+a.food{
+   color: rgb(255, 255, 255);
+   padding: 0 10px;
+   border-radius: 40px;
+   background-color:#dac9c2; 
+}
+a.food:hover{
+   background-color:#ffffff; 
+   color: #dac9c2; 
+}
+a.yujiebiggg{
+   background-color: #dac9c2;
+}
