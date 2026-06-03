@@ -39,3 +39,36 @@ section#about{
    background-attachment: fixed;
    background-size: cover;
 }
+section#school{
+   background-color: bisque;
+   background-image:url(../assets/img/back.png);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+}section#work{
+   background-color: bisque;
+   background-image:url(../assets/img/back.png);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+}section#sweet{
+   background-color: bisque;
+   background-image:url(../assets/img/back.png);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+}
+section#catfivefive{
+   background-color: bisque;
+   background-image:url(../assets/img/back.png);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+}
+section#cta{
+   background-color: bisque;
+   background-image:url(../assets/img/back.png);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+}
